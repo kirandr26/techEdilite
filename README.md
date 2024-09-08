@@ -1,2 +1,0 @@
-# techEdilite
-Project one
